@@ -1,7 +1,7 @@
 # 👋 Xin chào, tôi là Phan Văn Mạnh
 
 ##  Về bản thân 
--  Full‑stack developer với 3+ năm học công nghệ thông tin tại trường đại học Mỏ - Địa chất
+-  Là một lập trình viên với 3+ năm học công nghệ thông tin tại trường đại học Mỏ - Địa chất
 -  Đam mê xây dựng sản phẩm từ ý tưởng đến sản phẩm hoàn chỉnh
 -  Hiện đang tìm kiếm cơ hội thực tập / việc làm tại vị trí Front‑end hoặc Full‑stack
 
