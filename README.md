@@ -3,7 +3,7 @@
 ##  Về bản thân 
 -  Là một lập trình viên với 3+ năm học công nghệ thông tin tại trường đại học Mỏ - Địa chất
 -  Đam mê xây dựng sản phẩm từ ý tưởng đến sản phẩm hoàn chỉnh
--  Hiện đang tìm kiếm cơ hội thực tập / việc làm tại vị trí Front‑end hoặc Full‑stack
+-  Hiện đang tôi tìm kiếm cơ hội thực tập / việc làm tại vị trí Front‑end hoặc Full‑stack
 
 ##  Kỹ năng & Công nghệ tôi sử dụng
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
